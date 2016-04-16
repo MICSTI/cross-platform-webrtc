@@ -1,0 +1,27 @@
+PAPER-1
+A Comparative Analysis of Cross-platform Development Approaches for Mobile Applications
+Xanthopoulos S., Xinogalos S.
+2013
+
+PAPER-2
+Mobile Application Development: Web vs. Native
+Charland A., Leroux B.
+2011
+
+PAPER-3
+Recent Advances Delivered by HTML5 in Mobile Cloud Computing Applications: A Survey
+Xinagalos S., Psannis K. E., Sifaleras A.
+2012
+
+PAPER-4
+A Case Study on Cross-Platform Development Frameworks for Mobile Applications and UX
+Angulo E., Ferre X.
+2014
+
+PAPER-5
+Cross-Platform Feature Matching for Web Applications
+Choudhary S. R., Prasad M. R., Orso A.
+2014
+
+Hybrid Vs Cross-Platform Vs Native Application Development
+http://www.blog.provab.co.in/hybrid-vs-cross-platform-vs-native-application-development/
