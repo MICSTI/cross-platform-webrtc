@@ -2,26 +2,116 @@ PAPER-1
 A Comparative Analysis of Cross-platform Development Approaches for Mobile Applications
 Xanthopoulos S., Xinogalos S.
 2013
+DOI: 10.1145/2490257.2490292
 
 PAPER-2
 Mobile Application Development: Web vs. Native
 Charland A., Leroux B.
 2011
+DOI: 10.1145/1941487.1941504
 
 PAPER-3
 Recent Advances Delivered by HTML5 in Mobile Cloud Computing Applications: A Survey
-Xinagalos S., Psannis K. E., Sifaleras A.
+Xinogalos S., Psannis K. E., Sifaleras A.
 2012
+DOI: 10.1145/2371316.2371355
 
 PAPER-4
 A Case Study on Cross-Platform Development Frameworks for Mobile Applications and UX
 Angulo E., Ferre X.
 2014
+DOI: 10.1145/2662253.2662280
 
 PAPER-5
 Cross-Platform Feature Matching for Web Applications
 Choudhary S. R., Prasad M. R., Orso A.
 2014
+DOI: 10.1145/2610384.2610409
+
+PAPER-6
+Automatic Code Generation for Cross-Platform, Multi-device Mobile Apps: Some Reflections from an Industrial Experience
+Umuhoza E., Ed-douibi H., Brambilla M.
+2015
+DOI: 10.1145/2846661.2846666
+
+PAPER-7
+Comparing Cross-Platform Development Approaches for Mobile Applications
+Heitkötter H., Hanschke S., Majchrzak T.A.
+2012
+https://www.wi1.uni-muenster.de/pi/veroeff/heitkoetter/Comparing-Cross-Platform-Development-Approaches-for-Mobile-Applications.pdf
+
+PAPER-8
+Evaluating Usability of Cross-platform Smartphone Applications
+Mesfin G., Ghinea G., Midekso D., Gronli T.-M.
+2014
+DOI: 10.1007/978-3-319-10359-4_20
+
+PAPER-9
+Cross-platform mobile development approaches
+Charkaoui S., Adraoui Z., Benlahmar E.H.
+2014
+DOI: 10.1109/CIST.2014.7016616
+
+PAPER-10
+MyWebRTC, a Free Do-It-Yourself Kit for Secure Real-Time Internet-Communication
+Tolkiehn G., Lebedev M., Makariti A.
+2015
+DOI: 10.1109/ITIB.2015.7355058
+
+PAPER-11
+Developing WebRTC-based Team Apps with a Cross-Platform Mobile Framework
+Singh K., Buford J.
+2016
+DOI: 10.1109/CCNC.2016.7444762
+
+PAPER-12
+Evaluation of cross-platform development for mobile devices
+Friberg J.
+2014
+http://www.diva-portal.se/smash/get/diva2:691708/FULLTEXT01.pdf
+
+PAPER-13
+WebRTC, the day after
+Bertin E., Cubaud S., Tuffin S., Cazeaux S., Crespi N., Beltran V.
+2013
+DOI: 10.1109/ICIN.2013.6670893
+
+PAPER-14
+Cross-Platform Mobile Development: A Study on Apps with Animations
+Ciman M., Gaggi O., Gonzo N.
+2014
+DOI: 10.1145/2554850.2555104
+
+PAPER-15
+On embedded real time media communications
+Grégoire J.C.
+April 2015 		
+AWeS '15: Proceedings of the 1st Workshop on All-Web Real-Time Systems
+DOI: 10.1145/2749215.2749224
+
+PAPER-16
+P2P media streaming with HTML5 and WebRTC
+Nurminen J. K., Meyn A. J., Jalonen E., Raivio Y., Marrero R. G.
+IEEE International Conference on Computer Communications
+IEEE, 2013
+DOI: 10.1109/INFCOMW.2013.6970739
+
+PAPER-17
+WebRTC technology overview and signaling solution design and implementation
+Sredojev, B.; Samardzija, D.; Posarac, D.
+Information and Communication Technology, Electronics and Microelectronics (MIPRO), 2015 38th International Convention on
+Year: 2015
+DOI: 10.1109/MIPRO.2015.7160422
+
+
 
 Hybrid Vs Cross-Platform Vs Native Application Development
 http://www.blog.provab.co.in/hybrid-vs-cross-platform-vs-native-application-development/
+
+The Top 7 Hybrid Mobile App Frameworks
+https://www.sitepoint.com/top-7-hybrid-mobile-app-frameworks/
+
+
+How To Build an Android WebRTC Video and Voice Chat App
+https://www.pubnub.com/blog/2015-10-13-build-android-webrtc-video-voice-chat-app/
+
