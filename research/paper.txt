@@ -109,6 +109,18 @@ Leaver E., Iwase Y., Katsura K
 http://webrtc-security.github.io/
 Year: 2015
 
+PAPER-19
+An API proposal for integrating sensor data into web apps and WebRTC
+João Azevedo, Ricardo Lopes Pereira, Paulo Chainho
+April 2015 		
+AWeS '15: Proceedings of the 1st Workshop on All-Web Real-Time Systems 
+
+PAPER-20
+Smart Factory Product Lines: A Configuration Perspective on Smart Production Environments
+Dhungana D., Falkner A., Haselböck A., Schreiner H.
+SPLC '15 Proceedings of the 19th International Conference on Software Product Line 
+DOI: 10.1145/2791060.2791066
+
 
 Hybrid Vs Cross-Platform Vs Native Application Development
 http://www.blog.provab.co.in/hybrid-vs-cross-platform-vs-native-application-development/
