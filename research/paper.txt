@@ -103,6 +103,11 @@ Information and Communication Technology, Electronics and Microelectronics (MIPR
 Year: 2015
 DOI: 10.1109/MIPRO.2015.7160422
 
+PAPER-18
+A Study of WebRTC security
+Leaver E., Iwase Y., Katsura K
+http://webrtc-security.github.io/
+Year: 2015
 
 
 Hybrid Vs Cross-Platform Vs Native Application Development
