@@ -1,3 +1,15 @@
+BOOK-1
+Real-Time Communication with WebRTC
+Loreto, S & Romano SP
+2014, 1st edn., O’Reilly Media, Sebastopol
+ISBN: 978-1-449-37187-6
+
+BOOK-2
+High Performance Browser Networking
+Grigorik I
+2013, 1st edn., O’Reilly Media, Sebastopol
+ISBN: 978-1-449-34476-4
+
 PAPER-1
 A Comparative Analysis of Cross-platform Development Approaches for Mobile Applications
 Xanthopoulos S., Xinogalos S.
