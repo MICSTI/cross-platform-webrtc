@@ -133,6 +133,18 @@ Dhungana D., Falkner A., Haselböck A., Schreiner H.
 SPLC '15 Proceedings of the 19th International Conference on Software Product Line 
 DOI: 10.1145/2791060.2791066
 
+PAPER-21
+CSS Browser Selector Plus: A JavaScript Library to Support Cross-browser Responsive Design
+Johansen R. D., Pagani Britto T. C., Cusin C. A.
+2013
+ISBN: 978-1-4503-2038-2
+
+PAPER-22
+On the Design of a Responsive User Interface for a Multi-Device Web Service
+Voutilainen J. P., Salonen J., Mikkonen T.
+2015
+DOI: 10.1109/MobileSoft.2015.16
+
 
 Hybrid Vs Cross-Platform Vs Native Application Development
 http://www.blog.provab.co.in/hybrid-vs-cross-platform-vs-native-application-development/
