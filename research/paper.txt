@@ -145,6 +145,12 @@ Voutilainen J. P., Salonen J., Mikkonen T.
 2015
 DOI: 10.1109/MobileSoft.2015.16
 
+PAPER-23
+Responsive, mobile app, mobile first: untangling the UX design web in practical experience
+Mullins C.
+2015
+DOI: 10.1145/2775441.2775478 
+
 
 Hybrid Vs Cross-Platform Vs Native Application Development
 http://www.blog.provab.co.in/hybrid-vs-cross-platform-vs-native-application-development/
